@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EverBridge_Demo", "EverBridge_Demo\EverBridge_Demo.csproj", "{3F7ECFCB-C4E5-41AC-844D-17AF4E7D3912}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EBProjectFramework", "EBProjectFramework\EBProjectFramework.csproj", "{C141A2AD-93EF-41DF-B7C1-F861C90CB584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F7ECFCB-C4E5-41AC-844D-17AF4E7D3912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7ECFCB-C4E5-41AC-844D-17AF4E7D3912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7ECFCB-C4E5-41AC-844D-17AF4E7D3912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7ECFCB-C4E5-41AC-844D-17AF4E7D3912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C141A2AD-93EF-41DF-B7C1-F861C90CB584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C141A2AD-93EF-41DF-B7C1-F861C90CB584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C141A2AD-93EF-41DF-B7C1-F861C90CB584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C141A2AD-93EF-41DF-B7C1-F861C90CB584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {890F2C65-A89A-4CD6-AAC9-F3D80033D859}
+	EndGlobalSection
+EndGlobal
